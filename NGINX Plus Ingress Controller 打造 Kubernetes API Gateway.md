@@ -1,3 +1,4 @@
+https://clouddocs.f5.com/training/community/nginx/html/class11/class11.html
 第 1 ⾴ – 主題與全貌
 
 主題：在 Kubernetes 中以 NGINX Plus Ingress + App Protect 建構可治理的 API Gateway。
